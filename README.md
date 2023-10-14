@@ -3,7 +3,7 @@
  Tech Stack:
 -   React, React Native,
 -   C++, Java, Javascript, HTML,CSS,Bootstrap
--   Python
+-   Python automation
 
 
 - 🌱 I’m currently learning Material UI
