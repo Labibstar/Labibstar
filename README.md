@@ -6,6 +6,6 @@
 -   Python automation
 
 
-- 🌱 I’m currently learning Material UI
+- 🌱 I’m currently learning ThreeJS
 📫 Reach me at labibstar@gmail.com
 
